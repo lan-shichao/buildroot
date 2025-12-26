@@ -9,7 +9,7 @@ import collections
 import glob
 import json
 import os
-import pipes
+#import pipes
 import platform
 import re
 import shutil
